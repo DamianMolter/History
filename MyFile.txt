@@ -1,4 +1,10 @@
 main: First line.
 main: Second line.
+<<<<<<< HEAD
 main: Third line.
 main: Fourth line.
+=======
+
+feature: First line.
+feature: Second line.
+>>>>>>> c88d138 (Feature add second line)
